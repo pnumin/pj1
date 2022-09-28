@@ -1,22 +1,22 @@
 {
   "short_name": "PWA주사위",
   "name": "PWA K-digital Dice",
-  "start_url": "./index.html",
+  "start_url": "./pj1/index.html",
   "icons": [
     {
-      "src": "./images/icon192.png",
+      "src": "./pj1/images/icon192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./images/icons512.png",
+      "src": "./pj1/images/icons512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ], 
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "./", 
+  "scope": "./pj1/index.html", 
   "description": "PWA 주사위",
   "screenshots": [
   ]
